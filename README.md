@@ -34,5 +34,5 @@ A **private** GitHub repository (shared with @zigarn, @charlecoms & @Sekokp) con
 
 ## Bonus tasks
 
-- CI Pipeline: automate builds with a CI tool of your choice
+- CI Pipeline: automate builds with a CI tool of your choice (see [jenkins](./jenkins/) to setup a Jenkins inside your Kubernetes cluster)
 - ansible Playbook: deploy the stack to Kubernetes using ansible

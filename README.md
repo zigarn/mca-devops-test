@@ -1,6 +1,6 @@
 **⚠️ DO NOT FORK THIS REPOSITORY! ⚠️** \
 **⚠️ DO NOT OPEN A PULL REQUEST! ⚠️** \
-**Publish on GitHub as a __private__ repository shared (Settings>Collaborators>Manage access) with @zigarn, @charlecoms & @Sekokp.**
+**Publish on GitHub as a __private__ repository shared (Settings>Collaborators>Manage access) with [@zigarn](https://github.com/zigarn), [@charlecoms](https://github.com/charlecoms), [@m4rcuu](https://github.com/m4rcuu) & [@Sekokp](https://github.com/Sekokp).**
 
 # MCA DevOps test
 
@@ -18,11 +18,12 @@ PostgreSQL credentials must be "`myapplication`" and "`M3P@ssw0rd!`".
 
 ## Deliverables
 
-A **private** GitHub repository (shared with @zigarn, @charlecoms & @Sekokp) containing:
+A **private** GitHub repository (shared with [@zigarn](https://github.com/zigarn), [@charlecoms](https://github.com/charlecoms), [@m4rcuu](https://github.com/m4rcuu) & [@Sekokp](https://github.com/Sekokp)) containing:
 
 - Dockerfiles for backend and frontend
 - Files to perform the deployment of the full stack in Kubernetes
 - A `SOLUTION.md` with:
+  - name of your company and your identity in your company's resume (typically a trigram of your name), or simply your first and last name
   - build steps
   - deployment steps
   - a screenshot of the frontend UI showing a non-empty list of users

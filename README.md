@@ -1,12 +1,12 @@
 > [!WARNING]
-> DO NOT FORK THIS REPOSITORY! \
-> DO NOT OPEN A PULL REQUEST! \
+> DO NOT FORK THIS REPOSITORY. \
+> DO NOT OPEN A PULL REQUEST. \
 > <a name="sharing"></a>
-> Publish on GitHub as a **private** repository and share (Settings>Collaborators>Manage access) it with:
+> Publish on GitHub as a **private** repository and [invite](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository):
 > - [@zigarn](https://github.com/zigarn)
 > - [@charlecoms](https://github.com/charlecoms)
 > - [@m4rcuu](https://github.com/m4rcuu)
-> - [premjith19](https://github.com/premjith19)
+> - [@premjith19](https://github.com/premjith19)
 > - [@Sekokp](https://github.com/Sekokp)
 
 # MCA DevOps test

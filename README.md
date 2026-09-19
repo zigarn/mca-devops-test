@@ -1,6 +1,13 @@
-**⚠️ DO NOT FORK THIS REPOSITORY! ⚠️** \
-**⚠️ DO NOT OPEN A PULL REQUEST! ⚠️** \
-**Publish on GitHub as a __private__ repository shared (Settings>Collaborators>Manage access) with [@zigarn](https://github.com/zigarn), [@charlecoms](https://github.com/charlecoms), [@m4rcuu](https://github.com/m4rcuu) & [@Sekokp](https://github.com/Sekokp).**
+> [!WARNING]
+> DO NOT FORK THIS REPOSITORY! \
+> DO NOT OPEN A PULL REQUEST! \
+> <a name="sharing"></a>
+> Publish on GitHub as a **private** repository and share (Settings>Collaborators>Manage access) it with:
+> - [@zigarn](https://github.com/zigarn)
+> - [@charlecoms](https://github.com/charlecoms)
+> - [@m4rcuu](https://github.com/m4rcuu)
+> - [premjith19](https://github.com/premjith19)
+> - [@Sekokp](https://github.com/Sekokp)
 
 # MCA DevOps test
 
@@ -18,7 +25,7 @@ PostgreSQL credentials must be "`myapplication`" and "`M3P@ssw0rd!`".
 
 ## Deliverables
 
-A **private** GitHub repository (shared with [@zigarn](https://github.com/zigarn), [@charlecoms](https://github.com/charlecoms), [@m4rcuu](https://github.com/m4rcuu) & [@Sekokp](https://github.com/Sekokp)) containing:
+A **private** GitHub repository (see [how to share it](#sharing)) containing:
 
 - Dockerfiles for backend and frontend
 - Files to perform the deployment of the full stack in Kubernetes
